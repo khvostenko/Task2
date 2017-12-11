@@ -1,0 +1,7 @@
+D:\навчання\epam\Task2\Task2\bin\Debug\Task2.exe.config
+D:\навчання\epam\Task2\Task2\bin\Debug\Task2.exe
+D:\навчання\epam\Task2\Task2\bin\Debug\Task2.pdb
+D:\навчання\epam\Task2\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
+D:\навчання\epam\Task2\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+D:\навчання\epam\Task2\Task2\obj\Debug\Task2.exe
+D:\навчання\epam\Task2\Task2\obj\Debug\Task2.pdb
